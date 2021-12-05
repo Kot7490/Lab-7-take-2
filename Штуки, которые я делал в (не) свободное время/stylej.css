@@ -1,0 +1,19 @@
+*,
+*::after,
+*::before {
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+#canvas1 {
+    position: absolute;
+    background: black;
+    width: 852px; 
+    height: 1280px;
+    top:0;
+    left:0;
+}
+body {
+    background: black;
+
+}
